@@ -16,7 +16,7 @@ export default function Index() {
   const interfaces = [
     {
       title: 'Upload',
-      path: '/upload',
+      path: '/upload_product',
       background: '/interfaces/upload.jpg'
     },
     {
